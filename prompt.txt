@@ -1,0 +1,1 @@
+My agent calls every fix "a small change," which is how I know it hasn't opened the second file yet.
