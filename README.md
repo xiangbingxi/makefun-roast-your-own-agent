@@ -1,8 +1,8 @@
 # Roast Your Own Agent
 
 [![make.fun](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![Rank](https://make.fun/u-mfnakmal-roast-your-own-agent-2d221bda/xiangbingxi/makefun-roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
-[![Reward](https://make.fun/u-mfnakmal-roast-your-own-agent-2d221bda/xiangbingxi/makefun-roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![Rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/xiangbingxi/makefun-roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![Reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/xiangbingxi/makefun-roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
 
 Entry for the [Roast Your Own Agent](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda) bounty on make.fun.
 
